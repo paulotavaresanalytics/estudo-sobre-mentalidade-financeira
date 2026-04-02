@@ -40,40 +40,51 @@ As seguintes fontes foram utilizadas e inseridas no NotebookLM:
 12. Pai rico, pai pobre — Robert T. Kiyosaki
 
 13. Vídeo: Inteligência financeira - O que os ricos fazem que os pobres não? - Robert kiyosaki
-    https://www.youtube.com/watch?v=nZN1OBd_geM&
-    
-14. Vídeo: Mentalidade Rica vs Mentalidade Pobre
-    https://www.youtube.com/watch?v=kolRg9RmuN4&
-    
-15. Vídeo: 3 Lições sobre o dinheiro | A Psicologia Financeira de Morgan Housel
-    https://www.youtube.com/watch?v=hGzUz6cv6CU&
 
-16. Vídeo: 8 MINUTOS: IMPOSSÍVEL NÃO DAR CERTO NA VIDA E ENRIQUECER | Flávio Augusto
-    https://www.youtube.com/watch?v=24kNIWWzQHw&
-
-17. Vídeo: Eu era POBRE - Estas 17 mudanças de mentalidade me deixaram RICO
-    https://www.youtube.com/watch?v=Wn0igoM8h90&
+    link: https://www.youtube.com/watch?v=nZN1OBd_geM&
     
-18. Vídeo: 17 Lições sobre dinheiro - A psicologia do dinheiro. Morgan Housel 
-    https://www.youtube.com/watch?v=PHrOeiv5e8E&
+15. Vídeo: Mentalidade Rica vs Mentalidade Pobre
 
-19. Vídeo: O Segredo para o Sucesso: Mentalidade Rica vs Mentalidade Pobre
+    link: https://www.youtube.com/watch?v=kolRg9RmuN4&
+    
+17. Vídeo: 3 Lições sobre o dinheiro | A Psicologia Financeira de Morgan Housel
+
+    link: https://www.youtube.com/watch?v=hGzUz6cv6CU&
+
+19. Vídeo: 8 MINUTOS: IMPOSSÍVEL NÃO DAR CERTO NA VIDA E ENRIQUECER | Flávio Augusto
+
+    link: https://www.youtube.com/watch?v=24kNIWWzQHw&
+
+21. Vídeo: Eu era POBRE - Estas 17 mudanças de mentalidade me deixaram RICO
+
+    link: https://www.youtube.com/watch?v=Wn0igoM8h90&
+    
+23. Vídeo: 17 Lições sobre dinheiro - A psicologia do dinheiro. Morgan Housel 
+
+    link: https://www.youtube.com/watch?v=PHrOeiv5e8E&
+
+25. Vídeo: O Segredo para o Sucesso: Mentalidade Rica vs Mentalidade Pobre
     https://www.youtube.com/watch?v=CWg_F5ox2VY&
 
-20. Vídeo: Os segredos da mente milionária: Desvende a Fórmula da Riqueza (Audiobook Completo)
-    https://www.youtube.com/watch?v=6uN6-lHW3G0&
+26. Vídeo: Os segredos da mente milionária: Desvende a Fórmula da Riqueza (Audiobook Completo)
 
-21. Vídeo: Hábitos de ricos X Hábitos de pobres - Pq você não prospera! - Pablo Marçal
-    https://www.youtube.com/watch?v=w5hySPonshY&
+    link: https://www.youtube.com/watch?v=6uN6-lHW3G0&
 
-22. Vídeo: O Segredo Que Diferencia Ricos e Pobres!
-    https://www.youtube.com/watch?v=jMtX6YZsfUE&
+28. Vídeo: Hábitos de ricos X Hábitos de pobres - Pq você não prospera! - Pablo Marçal
 
-23. Vídeo: Mentalidade Rica vs Mentalidade Pobre - Por Que a Maioria Continua Quebrada Enquanto os Ricos Ficam + ricos
-    https://www.youtube.com/watch?v=U3b21P4_PcQ&
+    link: https://www.youtube.com/watch?v=w5hySPonshY&
 
-24. Vídeo: Mente Milionária | Como alcançar o Sucesso e a Prosperidade | O Conselho 21
-    https://www.youtube.com/watch?v=l8zh-v3FIpM&
+30. Vídeo: O Segredo Que Diferencia Ricos e Pobres!
+
+    link: https://www.youtube.com/watch?v=jMtX6YZsfUE&
+
+32. Vídeo: Mentalidade Rica vs Mentalidade Pobre - Por Que a Maioria Continua Quebrada Enquanto os Ricos Ficam + ricos
+
+    link: https://www.youtube.com/watch?v=U3b21P4_PcQ&
+
+34. Vídeo: Mente Milionária | Como alcançar o Sucesso e a Prosperidade | O Conselho 21
+
+    link: https://www.youtube.com/watch?v=l8zh-v3FIpM&
 
 ## 🤖 Engenharia de Prompts e Aprendizados
 
